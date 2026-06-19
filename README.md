@@ -1,6 +1,6 @@
 # 📌 Sidebar Menu — CodingLab
 
-Um menu lateral (sidebar) completo com logo, links de navegação com ícones, ícones de redes sociais e botão de fechar — desenvolvido com HTML, CSS e JavaScript.
+Um menu lateral (sidebar) completo com logo, links de navegação com ícones, ícones de redes sociais e botão de fechar — desenvolvido com HTML, CSS.
 
 ---
 
